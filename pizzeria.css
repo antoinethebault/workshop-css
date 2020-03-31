@@ -15,6 +15,13 @@ li{
     border: 1px solid #660000;
     background-color: #C03000;
     list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+li a{
+    color: #EFECCA;
+    text-decoration: none;
 }
 
 li:hover{
@@ -24,4 +31,5 @@ li:hover{
 footer a{
     color: #0000FF;
     text-decoration: none;
+    font-weight: bold;
 }
