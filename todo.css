@@ -1,0 +1,10 @@
+html{
+    background-color: blue;
+}
+li{
+    background-color: white;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
