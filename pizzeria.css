@@ -24,7 +24,7 @@ li a{
     text-decoration: none;
 }
 
-li:hover{
+li:hover, li a:focus{
     background-color: #009900;
 }
 
